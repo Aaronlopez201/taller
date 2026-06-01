@@ -1,7 +1,8 @@
 function Navbar() {
   return (
     <header className="navbar">
-      <h2>Aaron Lopez</h2>
+      <h2>💻 Aaron Lopez</h2>
+
       <nav>
         <a href="#inicio">Inicio</a>
         <a href="#info">Información</a>
